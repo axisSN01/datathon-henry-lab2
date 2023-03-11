@@ -23,3 +23,5 @@ You can open and get into the dataset transformation and analysis running each o
 *googlemapsapi*: You must open it first and extract the missing GPS coordinates from Google Maps API. Data is already downloaded in /data path but in case you wanna try you should first get an ACCESS_KEY for the Google API. 
 
 Hope you enjoy! 
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/axisSN01/datathon-henry-lab2/HEAD?labpath=https%3A%2F%2Fgithub.com%2FaxisSN01%2Fdatathon-henry-lab2%2Fblob%2Fmain%2Fnotebook%25201.ipynb)
